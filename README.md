@@ -6,3 +6,12 @@ This project focuses on advanced JavaScript/ES6 features such as the difference 
 To enhance the user experience, the app utilizes Handlebars.js as a template engine for efficient rendering and dynamic content generation. 
 
 Overall, ExpressGram aims to recreate the core functionalities of Instagram while exploring and implementing modern JavaScript concepts and utilizing the capabilities of Node.js and Express.js.
+
+## Requirements 
+
+- Git (clone the repo)
+- [NodeJS] (https://nodejs.org/en)
+- [nodemon] (https://www.npmjs.com/package/nodemon)
+- [Cloudinary Account] (https://cloudinary.com/)
+- [ElephantSQL Account] (https://www.elephantsql.com/)
+- [MongoDB Atlas Account] (https://www.mongodb.com/atlas/database) 
